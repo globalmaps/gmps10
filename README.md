@@ -11,5 +11,5 @@ Credit: "Global Map of PALESTINE © ISCGM / Palestinian National Authority, Mini
 
 Contact: Palestinian National Authority.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/palestine.png)
+E-mail: ![email](email.png)
 
